@@ -1,0 +1,104 @@
+.red{
+	
+	
+	color: red;
+}
+.red2{
+	font-size: 18px;
+	
+	color: red;
+}
+.blue{
+	
+	
+	color: blue;
+}
+.green{
+
+	color: green;
+}
+
+
+.box_left{
+	width: 55%;
+    border: 1px solid gray;
+    float: left;
+}
+
+.box_right{
+	width: 44%;
+    border: 1px solid gray;
+    float: right;
+}
+
+.submit-order{
+	padding: 10px 25px;
+    background-color: #ffc91b;
+}
+.grey{
+	color: grey;
+	font-size: 18px;
+}
+
+.shopping h3{
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.grid_1_of_4{
+	min-height: 400px;
+}
+.fix-ui{
+	position: absolute;
+    bottom: 30px;
+    left: 20%;
+    right: 20%;
+}
+.phantrang a {
+	padding-right: 5px;
+}
+table.form {
+	width:100%;
+}
+table.form td {
+	padding:4px 0px;
+}
+table.form label {
+	font-weight:bold;
+}
+
+ .err{
+       	padding: 5px;
+	    background-color: #ffd0d0;
+	    color: red;
+
+	    
+	    display: block;
+     }
+
+.succes{
+	padding: 5px;
+    background-color: #95d4a4;
+    color: #28a745;
+   
+    display: block;
+
+   
+}
+
+.tl_ct{
+	margin-bottom: 10px !important;
+}
+
+.edit{
+	color: green;
+}
+.del{
+	color: red;
+}
+
+
+
+
+
+
